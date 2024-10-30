@@ -1,0 +1,15 @@
+.cbxlatesttweets-icon {
+    position: relative;
+}
+.cbxlatesttweets-icon:before {
+    content: ' ';
+    background-image: url(icon.png);
+    background-size: contain;
+    width: 26px;
+    height: 26px;
+    display: block;
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}

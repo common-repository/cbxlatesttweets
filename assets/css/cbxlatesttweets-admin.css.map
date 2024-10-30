@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "cbxlatesttweets-admin.css",
+	"sources": [
+		"../scss/cbxlatesttweets-admin.scss"
+	],
+	"names": [],
+	"mappings": ""
+}

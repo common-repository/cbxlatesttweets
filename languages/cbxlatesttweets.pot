@@ -1,0 +1,652 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-19 07:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-cbxlatesttweets-admin.php:209
+msgid " Access Token"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:217
+msgid " Access Token Secret"
+msgstr ""
+
+#: includes/class-cbxlatesttweets-helper.php:323
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr ""
+
+#. %s template
+#: includes/cbxlatesttweets-functions.php:89
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:330
+msgid ""
+"<strong>Please note that this process can not be undone and it is "
+"recommended to keep full database backup before doing this.</strong>"
+msgstr ""
+
+#: admin/templates/dashboard.php:147
+msgid "Access our Premium Support"
+msgstr ""
+
+#: includes/class-cbxlatesttweets-helper.php:343
+#: includes/class-cbxlatesttweets-helper.php:434
+msgid "ago"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:185
+msgid "Api Help"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:345
+#: admin/class-cbxlatesttweets-admin.php:357
+msgid "Are you sure to reset all data, this process can not be undone?"
+msgstr ""
+
+#: includes/class-cbxlatesttweets-helper.php:21
+msgid "Basic"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:780
+msgid "CBX Blocks"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-cbxlatesttweets-admin.php:398
+#: admin/class-cbxlatesttweets-admin.php:638
+#: widgets/cbxlatesttweets-widget/cbxlatesttweets-widget.php:34
+#: widgets/cbxlatesttweets-widget/cbxlatesttweets-widget.php:72
+#: widgets/cbxlatesttweets-widget/cbxlatesttweets-widget.php:187
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:38
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:28
+msgid "CBX Latest Tweets"
+msgstr ""
+
+#: admin/templates/dashboard.php:17
+msgid "CBX Latest Tweets - Helps & Updates"
+msgstr ""
+
+#: admin/templates/settings-display.php:23
+msgid "CBX Latest Tweets - Settings"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:397
+msgid "CBX Latest Tweets Configuration"
+msgstr ""
+
+#: admin/templates/dashboard.php:167
+msgid "CBX Latest Tweets Plugin Information"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:92
+msgid "CBX Latest Tweets Setting"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:642
+msgid "CBX Latest Tweets Settings"
+msgstr ""
+
+#: admin/templates/admin-settings-display.php:19
+msgid "CBX Latest Tweets: Setting"
+msgstr ""
+
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:32
+msgid "CBX Widgets"
+msgstr ""
+
+#: admin/templates/dashboard.php:194
+msgid "Changelog"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:555
+#: admin/class-cbxlatesttweets-admin.php:569
+#, php-format
+msgid ""
+"Check <a href=\"%s\">Plugin Setting</a> | <a href=\"%s\" target=\"_blank\">"
+"<span class=\"dashicons dashicons-external\"></span> Documentation</a>"
+msgstr ""
+
+#: includes/class-cbxlatesttweets-settings.php:571
+msgid "Click to show hide"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr"
+msgstr ""
+
+#: admin/templates/dashboard.php:242 admin/templates/sidebar.php:55
+msgid "Codeboxr News Updates"
+msgstr ""
+
+#: public/class-cbxlatesttweets-public.php:198
+msgid "Codeboxr Widgets"
+msgstr ""
+
+#: admin/templates/dashboard.php:81
+msgid "Coming Soon"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:193
+msgid "Consumer Key"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:201
+msgid "Consumer Secret"
+msgstr ""
+
+#: includes/class-cbxlatesttweets-settings.php:600
+#: includes/class-cbxlatesttweets-settings.php:601
+msgid "Copy to clipboard"
+msgstr ""
+
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:103
+msgid "Css"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:136
+#: admin/class-cbxlatesttweets-admin.php:161
+msgid "Data"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:263
+msgid "Date time display format"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:651
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:174
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:176
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:93
+#: widgets/cbxlatesttweets-widget/views/admin.php:104
+msgid "Date Time Format"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:317
+msgid "Default cache time (hour)"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:252
+msgid "Default time format"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:95
+msgid "Default Tweets Config"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:328
+msgid "Delete Global Config data created by this plugin on uninstall."
+msgstr ""
+
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:105
+msgid "Design options"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:329
+msgid ""
+"Details <a data-target=\"cbxlatesttweets_tool_fullreset\" "
+"class=\"cbxlatesttweets_jump\" href=\"#\">option values</a> and <a data-"
+"target=\"cbxlatesttweets_tool_cachereset\" class=\"cbxlatesttweets_jump\" "
+"href=\"#\">transient values</a> "
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:265
+msgid "Documentation on date and time formatting"
+msgstr ""
+
+#: widgets/cbxlatesttweets-widget/views/admin.php:98
+msgid ""
+"Documentation on date and time formatting(regular date time display format)"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:306
+msgid "Enable cache"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:307
+msgid "Enable caching of tweets"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:240
+#: admin/class-cbxlatesttweets-admin.php:648
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:147
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:160
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:71
+#: widgets/cbxlatesttweets-widget/views/admin.php:77
+msgid "Exclude Replies"
+msgstr ""
+
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:95
+msgid "F j, Y g:i a"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:166
+msgid "Following cache values created by this plugin(including addon)"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:129
+msgid "Following option values created by this plugin(including addon)"
+msgstr ""
+
+#: admin/templates/dashboard.php:33
+msgid "Get Free & Pro Addons"
+msgstr ""
+
+#: admin/templates/dashboard.php:21
+msgid "Go to Settings"
+msgstr ""
+
+#: includes/class-cbxlatesttweets-helper.php:25
+msgid "Grid"
+msgstr ""
+
+#: admin/templates/dashboard.php:135 admin/templates/sidebar.php:10
+msgid "Help & Supports"
+msgstr ""
+
+#: admin/templates/settings-display.php:30
+msgid "Helps & Updates"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:318
+msgid "How many hour tweets wil be cached?"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codeboxr.com/product/cbx-latest-tweets-for-wordpress/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.codeboxr.com"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:264
+msgid "If time format is regular then date time display format."
+msgstr ""
+
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:96
+#, php-format
+msgid ""
+"If time format is regular then date time display format.<a href=\"%s\" "
+"target=\"_blank\">Documentation on date and time formatting)</a>)."
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:227
+#: admin/class-cbxlatesttweets-admin.php:647
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:134
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:61
+#: widgets/cbxlatesttweets-widget/views/admin.php:65
+msgid "Include Retweets"
+msgstr ""
+
+#: widgets/cbxlatesttweets-widget/cbxlatesttweets-widget.php:37
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:29
+msgid "Latest Tweets by twitter handle"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:100
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:54
+#: widgets/cbxlatesttweets-widget/views/admin.php:53
+msgid "Layout"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:274
+msgid "Linkify any link found in tweet text"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:295
+msgid "Linkify hashtag"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:296
+msgid "Linkify hashtag of the tweet."
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:273
+msgid "Linkify Link"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:284
+msgid "Linkify mention"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:285
+msgid "Linkify mention of the tweet."
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:114
+msgid "multiple using comma"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:234
+#: admin/class-cbxlatesttweets-admin.php:246
+#: admin/class-cbxlatesttweets-admin.php:278
+#: admin/class-cbxlatesttweets-admin.php:289
+#: admin/class-cbxlatesttweets-admin.php:300
+#: admin/class-cbxlatesttweets-admin.php:311
+#: admin/class-cbxlatesttweets-admin.php:335
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:138
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:151
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:66
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:76
+#: widgets/cbxlatesttweets-widget/views/admin.php:70
+#: widgets/cbxlatesttweets-widget/views/admin.php:82
+msgid "No"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:125
+msgid "No of tweets to display"
+msgstr ""
+
+#: templates/basic.php:46 templates/grid.php:44
+msgid "No tweets found"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:646
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:123
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:47
+#: widgets/cbxlatesttweets-widget/views/admin.php:44
+msgid "Number of Tweets"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:327
+msgid "On Uninstall delete plugin data"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:135
+#: admin/class-cbxlatesttweets-admin.php:160
+msgid "Option ID"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:134
+#: admin/class-cbxlatesttweets-admin.php:159
+msgid "Option Name"
+msgstr ""
+
+#: admin/templates/dashboard.php:89 admin/templates/sidebar.php:19
+msgid "Other WordPress Plugins"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:186
+msgid ""
+"Please create app in <a href=\"https://apps.twitter.com/\" target=\"_blank\">"
+"Twitter Apps</a> and check <strong>Keys and Access Tokens</strong> tab for "
+"necessary api keys"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:210
+msgid "Please put  Access Token here, required field."
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:218
+msgid "Please put  Access Token Secret here, required field."
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:194
+msgid "Please put Consumer Key here, required field."
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:202
+msgid "Please put Consumer Secret here, required field."
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:471
+msgid "Please Select"
+msgstr ""
+
+#: admin/templates/dashboard.php:158
+msgid "Quick Support (Email)"
+msgstr ""
+
+#: admin/templates/dashboard.php:185
+msgid "Rate Our Plugin"
+msgstr ""
+
+#: admin/templates/dashboard.php:177
+msgid "Read the CBX Latest Tweets User Guide"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:257
+#: admin/class-cbxlatesttweets-admin.php:610
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:164
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:86
+#: widgets/cbxlatesttweets-widget/views/admin.php:95
+msgid "Regular (Example: dd-mm-yyyy)"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:256
+#: admin/class-cbxlatesttweets-admin.php:606
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:163
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:85
+#: widgets/cbxlatesttweets-widget/views/admin.php:94
+msgid "Relative (Example: 5 mins ago)"
+msgstr ""
+
+#: includes/class-cbxlatesttweets-helper.php:388
+#, php-format
+msgctxt "relative time - x min ago"
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-cbxlatesttweets-helper.php:423
+#, php-format
+msgctxt "relative time - x min ago"
+msgid "%s decade"
+msgid_plural "%s decades"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-cbxlatesttweets-helper.php:380
+#, php-format
+msgctxt "relative time - x min ago"
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-cbxlatesttweets-helper.php:371
+#, php-format
+msgctxt "relative time - x min ago"
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-cbxlatesttweets-helper.php:406
+#, php-format
+msgctxt "relative time - x min ago"
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-cbxlatesttweets-helper.php:362
+#, php-format
+msgctxt "relative time - x min ago"
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-cbxlatesttweets-helper.php:397
+#, php-format
+msgctxt "relative time - x min ago"
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-cbxlatesttweets-helper.php:414
+#, php-format
+msgctxt "relative time - x min ago"
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/class-cbxlatesttweets-admin.php:353
+msgid "Reset all cache data"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:341
+msgid "Reset all data"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:354
+#, php-format
+msgid ""
+"Reset cache data created created by this plugin.\n"
+"<a class=\"button button-primary\" onclick=\"return confirm('%s')\" "
+"href=\"%s\">Reset Cache</a>"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:342
+#, php-format
+msgid ""
+"Reset option values created by this plugin.\n"
+"<a class=\"button button-primary\" onclick=\"return confirm('%s')\" "
+"href=\"%s\">Reset Data</a>"
+msgstr ""
+
+#: includes/class-cbxlatesttweets-settings.php:724
+#: admin/templates/settings-display.php:29
+msgid "Save Settings"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:644
+msgid "Select Layout"
+msgstr ""
+
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:102
+msgid "Select layout"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:814
+msgid "Settings"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:126
+msgid "Show/hide details"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:553
+#, php-format
+msgid ""
+"Thanks for installing/deactivating <strong>CBX Latest Tweets</strong> V%s - "
+"Codeboxr Team"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:567
+#, php-format
+msgid ""
+"Thanks for upgrading <strong>CBX Latest Tweets</strong> V%s , enjoy the new "
+"features and bug fixes - Codeboxr Team"
+msgstr ""
+
+#: admin/templates/dashboard.php:65
+msgid "Third Party plugin Integration"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin shows latest tweets from multiple twitter account"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:649
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:81
+#: widgets/cbxlatesttweets-widget/views/admin.php:90
+msgid "Time Format"
+msgstr ""
+
+#: widgets/cbxlatesttweets-widget/views/admin.php:23
+msgid "Title"
+msgstr ""
+
+#: includes/class-cbxlatesttweets-helper.php:346
+msgid "to go"
+msgstr ""
+
+#: widgets/cbxlatesttweets-widget/views/admin.php:30
+msgid "To make the widget work twitter Api config is needed"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:99
+msgid "Tools"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:835
+#: admin/class-cbxlatesttweets-admin.php:836
+msgid "Try Pro"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:90
+msgid "Twitter API Config"
+msgstr ""
+
+#: includes/class-cbxlatesttweets-helper.php:100
+msgid "Twitter api config incorrect"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:643
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:112
+#: widgets/cbxlatesttweets-widget/views/admin.php:34
+msgid "Twitter Username"
+msgstr ""
+
+#: includes/class-cbxlatesttweets-helper.php:98
+msgid "Twitter username missing"
+msgstr ""
+
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:39
+msgid "Username"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:813
+msgid "View settings"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:253
+msgid "What will be the time format to show tweet?"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:241
+msgid "Will replies be included when query tweets?"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:228
+msgid "Will retweets be included when query tweets?"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:472
+msgid "Window Title"
+msgstr ""
+
+#: admin/class-cbxlatesttweets-admin.php:233
+#: admin/class-cbxlatesttweets-admin.php:245
+#: admin/class-cbxlatesttweets-admin.php:277
+#: admin/class-cbxlatesttweets-admin.php:288
+#: admin/class-cbxlatesttweets-admin.php:299
+#: admin/class-cbxlatesttweets-admin.php:310
+#: admin/class-cbxlatesttweets-admin.php:334
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:137
+#: widgets/elementor-elements/class-cbxlatesttweets-elemwidget.php:150
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:65
+#: widgets/vc-elements/class-cbxlatesttweets-wpbwidget.php:75
+#: widgets/cbxlatesttweets-widget/views/admin.php:69
+#: widgets/cbxlatesttweets-widget/views/admin.php:81
+msgid "Yes"
+msgstr ""
